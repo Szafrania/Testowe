@@ -1,3 +1,4 @@
 bla bla bla
 dodaje nowe linijki aby je pobrać
 teraz dodaje nową linijkę aby ją wypchnąć
+dodaje jeszcze wiecej
