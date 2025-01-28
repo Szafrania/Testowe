@@ -1,1 +1,2 @@
 Przypadek testowy nr 1
+Przypadek testowy nr 2
